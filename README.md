@@ -17,4 +17,7 @@ https://satyasirishabolloju.netlify.app/
 ## Connect With Me
 <a href="https://www.linkedin.com/in/satya-sirisha-bolloju-031b33239">
 LinkedIn
+</a> | 
+<a href="satyabolloju15@gmail.com">
+Email
 </a>
