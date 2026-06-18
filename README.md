@@ -19,6 +19,3 @@ https://satyasirishabolloju.netlify.app/
 <a href="https://www.linkedin.com/in/satya-sirisha-bolloju-031b33239">
 LinkedIn
 </a>
-<a href="https://satyasirishabolloju.netlify.app/">
-LinkedIn
-</a>
